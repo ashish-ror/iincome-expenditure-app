@@ -1,4 +1,4 @@
-# Ophelos - Technical Exercise
+# I&E - Technical Exercise
 
 It is a web application that helps a customer to submit an I&E statement and calculates their disposable income and I&E rating.
 
